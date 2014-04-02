@@ -19,3 +19,11 @@
 *.exe
 *.out
 *.app
+
+# Extras for lab 11 - ALICE
+bin/
+.*.sw[a-z]
+*~
+\#*\#
+.DS_Store
+
